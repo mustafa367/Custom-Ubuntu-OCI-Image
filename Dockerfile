@@ -7,5 +7,5 @@ RUN apt update && apt install -y \
   ghc-prof \
   ghc-doc \
   sbcl \
-  guile2.2 \
+  guile \
   && rm -rf /var/lib/apt/lists/*

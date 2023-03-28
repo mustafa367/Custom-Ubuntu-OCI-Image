@@ -1,4 +1,4 @@
-FROM quay.io/toolbx-images/ubuntu-toolbox:22.04
+FROM quay.io/toolbx-images/debian-toolbox:unstable
 RUN apt update && apt install -y \
   neofetch \
   htop \

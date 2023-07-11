@@ -3,6 +3,8 @@ RUN apt update && apt install -y \
   neofetch \
   htop \
   neovim \
+  code \
+  texlive-full \
   ghc \
   ghc-prof \
   ghc-doc \

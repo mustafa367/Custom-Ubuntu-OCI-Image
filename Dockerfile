@@ -4,7 +4,6 @@ RUN apt update && apt install -y \
   htop \
   neovim \
   code \
-  texlive-full \
   ghc \
   ghc-prof \
   ghc-doc \

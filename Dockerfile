@@ -8,6 +8,5 @@ RUN apt update && apt install -y \
   ghc \
   ghc-prof \
   ghc-doc \
-  sbcl \
   guile-3.0 \
   && rm -rf /var/lib/apt/lists/*
